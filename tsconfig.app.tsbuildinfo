@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/towerofhanoi.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/controls.tsx","./src/components/disk.tsx","./src/components/peg.tsx","./src/hooks/usetowerofhanoi.tsx","./src/utils/hanoisolver.ts"],"version":"5.6.3"}
